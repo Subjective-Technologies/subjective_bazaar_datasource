@@ -1,4 +1,5 @@
 {
+  "description": "Clones Bazaar repositories into a target directory so source history and files can be indexed in BrainBoost workflows.",
   "domainCategory": "Software Development",
   "subjectiveTechnologyElement": "DataSources",
   "publisher": "BrainBoost Ltd.",
@@ -9,7 +10,7 @@
     {
       "type": "splitList",
       "title": "Bazaar",
-      "text": "A Subjective data source for bazaar.",
+      "text": "Clones Bazaar repositories into a target directory so source history and files can be indexed in BrainBoost workflows.",
       "image": {
         "src": "/subjective_bazaar_datasource/icon.svg",
         "alt": "Bazaar icon"
